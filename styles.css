@@ -1,0 +1,61 @@
+body {
+    background-color: #f5f1e8;
+    font-family: Georgia, serif;
+    color: #2a2a2a;
+}
+
+h1 {
+    color: #2d5a3d;
+    font-size: 2.5rem;
+}
+
+header {
+    padding: 1.3rem 2rem;
+    border-bottom: 1px solid #2a2a2a;
+}
+
+nav a {
+    color: cadetblue;
+}
+
+main {
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#metodo_titulo {
+    font-size: 1.1rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+    color: #2d5a3d;
+}
+
+#precio {
+    font-weight: bold;
+    color: cadetblue;
+}
+
+footer {
+    padding: 3rem 2rem;
+    border-top: 1px solid #2a2a2a;
+    max-width: 800px;
+    margin: 0 auto;
+}
+#contador-tazas{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: cadetblue;
+}
+#boton-reservas{
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25rem;
+    background-color: cadetblue;
+    color: #f5f1e8;
+    border: none;
+    font-family: Georgia, serif;
+    font-size: 1rem;
+    cursor:pointer
+}
